@@ -1,6 +1,6 @@
 {
   "package": {
-    "name": "@konard/php-docker-isolation-provider",
+    "name": "https://github.com/Lotos2021/php-docker-isolation-provider-test.git",
     "version": "0.0.2"
   },
   "data": [
