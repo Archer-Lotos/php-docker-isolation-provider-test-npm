@@ -1,9 +1,15 @@
 {
-  "name": "git+https://github.com/Lotos2021/php-docker-isolation-provider-test.git",
+  "name": "php-docker-isolation-provider-test",
   "keywords": [
     "deep-package"
   ],
-  "version": "0.0.2",
+  "version": "0.0.3",
+  "license": "MIT",
+  "author": "lotos2021",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lotos2021/php-docker-isolation-provider-test.git"
+  },
   "dependencies": {
     "@deep-foundation/core": "^0.0.2"
   }
