@@ -1,5 +1,5 @@
 {
-  "name": "php-docker-isolation-provider-test",
+  "name": "@lotos2021/php-docker-isolation-provider",
   "keywords": [
     "deep-package"
   ],

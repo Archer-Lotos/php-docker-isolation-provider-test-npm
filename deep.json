@@ -1,6 +1,6 @@
 {
   "package": {
-    "name": "php-docker-isolation-provider-test",
+    "name": "@lotos2021/php-docker-isolation-provider-test",
     "version": "0.0.2"
   },
   "data": [
